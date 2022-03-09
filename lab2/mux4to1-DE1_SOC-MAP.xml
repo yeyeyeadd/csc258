@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<LogisimGoesFPGABoardMapInformation>
+   <GlobalMapInformation BoardName="DE1_SOC" ToplevelCircuitName="main"/>
+   <MAPPEDCOMPONENT_1 Height="10" Key="PIN: /LEDR_9#LED0" LocationX="101" LocationY="319" Width="10"/>
+   <MAPPEDCOMPONENT_2 Height="30" Key="PIN: /SW_0#Button0" LocationX="90" LocationY="337" Width="21"/>
+   <MAPPEDCOMPONENT_3 Height="30" Key="PIN: /SW_1#Button0" LocationX="117" LocationY="337" Width="21"/>
+   <MAPPEDCOMPONENT_4 Height="30" Key="PIN: /SW_9#Button0" LocationX="145" LocationY="337" Width="21"/>
+   <MAPPEDCOMPONENT_5 Height="10" Key="PIN: /m#LED0" LocationX="345" LocationY="319" Width="10"/>
+   <MAPPEDCOMPONENT_6 Height="30" Key="PIN: /s0#Button0" LocationX="228" LocationY="337" Width="21"/>
+   <MAPPEDCOMPONENT_7 Height="30" Key="PIN: /s1#Button0" LocationX="200" LocationY="337" Width="21"/>
+   <MAPPEDCOMPONENT_8 Height="30" Key="PIN: /u#Button0" LocationX="339" LocationY="337" Width="21"/>
+   <MAPPEDCOMPONENT_9 Height="30" Key="PIN: /v#Button0" LocationX="310" LocationY="337" Width="21"/>
+   <MAPPEDCOMPONENT_a Height="30" Key="PIN: /w#Button0" LocationX="283" LocationY="337" Width="21"/>
+   <MAPPEDCOMPONENT_b Height="30" Key="PIN: /x#Button0" LocationX="254" LocationY="337" Width="21"/>
+</LogisimGoesFPGABoardMapInformation>
